@@ -1,0 +1,13 @@
+If I were asked to summarize what I learned abouut whether first babies arrive late and I wanted to get a story on 
+the evening news, I would use the mean of 38 weeks or the mode of 39 weeks (basically a measure of central tendency) 
+since a timely pregnancy would be considered 36 weeks. 
+
+If I wanted to reassure an anxious patient, I would use a measure of dispersion such as standard deviation or Cohen's D
+because they give insight on common time intervals that pregnancies are late (and early) by.
+
+Do first babies arrive late? I don't believe that first babies arrive late. First babies arrive on average after 38.6 
+weeks of pregnancy and non-first babies arrive on average after 38.52 weeks of pregnancy. Not only do first babies
+arrive earlier on average than their non-first counterparts, but the difference between the two groups are only around
+0.08 weeks. Since the standard deviation is 2.7 weeks, the difference of means is only roughly 0.029
+standard deviations. It appears that the difference of means between the two groups aren't even statistically
+significant. 
